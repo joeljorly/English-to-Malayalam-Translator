@@ -1,7 +1,7 @@
 # English-to-Malayalam-Translator
 This repo contains 4 different approaches which are capable of translating an English input to its corresponding Malayalam counterpart.
 
-This project was a team effort. The members involved in the execution of project were:
+This project was a team effort. The members involved in the execution of this project are:
 Joel Jorly,
 Nahid MA,
 Paul Elias,
